@@ -8,6 +8,7 @@ const Navbar = () => {
     <li><NavLink to='/'>Home</NavLink></li>
     <li><NavLink to='/myApplications'>My applications</NavLink></li>
     <li><NavLink to='/addjob'>Add a job</NavLink></li>
+    <li><NavLink to='/myjob'>My Posted Job</NavLink></li>
         
     </>   
     const handleSignout=()=>{
