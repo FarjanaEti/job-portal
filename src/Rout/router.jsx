@@ -13,6 +13,9 @@ import AddJob from "../Paages/AddJob";
 import MyPostedJobs from "../Paages/MyPostedJobs";
 import ViewApplication from "../Paages/ViewApplication";
 
+
+//jwt===json web token pronounce as jot
+//json web token jet.io
 const router = createBrowserRouter([
   {
     path: "/",
